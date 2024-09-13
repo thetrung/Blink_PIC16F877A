@@ -7,6 +7,7 @@ Blink Test / PIC16F877A
 Some fun comparison with a simple Blink across popular MCUs in Blinking LED :
 
     this->PIC16F877A-XC8  : 308 bytes
+    CH32v0003-ch32v003fun : 496 bytes 
     CH32v0003-noneOS-SDK  : 824 bytes
     Arduino-Uno-Arduino.h : 860 bytes
     CH32v0003-Arduino.h   : 5352 bytes
